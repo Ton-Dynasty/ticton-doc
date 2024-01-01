@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktic_ton=self.webpackChunktic_ton||[]).push([[3870],{7580:t=>{t.exports=JSON.parse('{"label":"hello","permalink":"/ticton-doc/blog/tags/hello","allTagsPath":"/ticton-doc/blog/tags","count":2,"unlisted":false}')}}]);

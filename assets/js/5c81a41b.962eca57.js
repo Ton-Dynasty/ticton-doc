@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktic_ton=self.webpackChunktic_ton||[]).push([[134],{7336:t=>{t.exports=JSON.parse('{"permalink":"/ticton-doc/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

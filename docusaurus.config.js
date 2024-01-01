@@ -9,7 +9,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Tic Ton',
-  tagline: 'Innovative price oracle for TON',
+  tagline: 'Tick Tock Tic Ton!',
   favicon: 'img/TICTON-LAST.png',
 
   // Set the production url of your site here

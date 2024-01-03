@@ -1,7 +1,9 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
+
 # What are the applications of Oracles?
+
 Oracles serve as a bridge connecting the real world off-chain with DeFi projects, supply chain management, gaming, insurance, and more on the market. Here are some examples of data instances where oracles might interact with DApps:
 
 - Data from capital markets, such as tokenized assets or stock prices.

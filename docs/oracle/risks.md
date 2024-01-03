@@ -1,4 +1,9 @@
+---
+sidebar_position: 6
+---
+
 # Current Challenges with Oracles
+
 Current Challenges with Oracles
 Oracles face certain issues as they are the primary source of external data for blockchains, which lack direct access to real-world information. The reliance on oracles becomes problematic if they are centralized, drawing data from a single source, and if that data is tainted, it can lead to irreversible damages. Additionally, oracles are susceptible to cyber-attacks. Summarizing, oracles must adhere to crucial criteria:
 

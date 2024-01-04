@@ -12,15 +12,15 @@ Oracles are pivotal in blockchain as they bridge the gap between the on-chain an
 
 **Presently, there are three main types of oracle solutions:**
 
-## Type One: MakerDAO's Federation Oracle Model
+## 1. MakerDAO's Federation Oracle Model
 
 Firstly, **Federation** oracles like MakerDAO use a set of selected miners to fetch and upload data, maintaining anonymity for security but at the cost of centralization risk. Early DeFi projects often opted for such centralized oracle solutions to minimize development time and costs despite the inherent security trade-offs.
 
-## Type Two: Chainlink's Proxy Oracle Approach
+## 2. Chainlink's Proxy Oracle Approach
 
 Secondly, Chainlink exemplifies the **Proxy** oracle model. It operates through a system of incentives and data amalgamation to source and verify information. While it offers a more decentralized approach compared to MakerDAO's model, the indirect nature of data validation—relying on the reputation of data providers—poses its own set of challenges.
 
-## Type Three: Uniswap's Actual Price Oracle Model
+## 3. Uniswap's Actual Price Oracle Model
 
 Thirdly, Uniswap demonstrates the **Actual Price** oracle model. This approach is distinct for its direct utilization of live trading data from Uniswap's decentralized exchange.
 

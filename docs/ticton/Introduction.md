@@ -13,3 +13,7 @@ Inspired by [**Uniswap**](../oracle/comparison#type-three-uniswaps-actual-price-
 However, a primary challenge faced by Uniswap Oracles is the **latency in their price reporting**. In the Uniswap system, prices are determined using the **Time-Weighted Average Price (TWAP)** methodology. This approach involves calculating the average price over a specific time window, based on transaction data. While effective in reducing market manipulation and mitigating short-term volatility, it introduces a significant issue: **delayed price updates**. As this calculation method requires time to accumulate transaction data, the final presented prices may not immediately reflect the current market conditions. Furthermore, since it relies on historical price data, the prices can be influenced by past market conditions, which in some cases, might lead to prices deviating from the actual market value.
 
 To address this issue, we have redesigned a new oracle model. Our oracle aims to **instantly mirror market prices**, reducing latency while maintaining the characteristics of decentralization and resistance to manipulation.
+
+# Core Concepts
+![Alt text](../../image/core.png)
+**After a quote has remained un-arbitraged for a certain period, it will then be incorporated into the TicTon Oracle for price calculation.**

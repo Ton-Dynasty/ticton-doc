@@ -3,21 +3,22 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 //
 const FeatureList = [
-  {
-    title: 'High Transactions per second in TON',
-    Image: require('@site/static/img/htps.png').default,
-    description: (
-      <>
-        With TON's high TPS, 10-block verifications take just 10 seconds, far quicker than Ethereum's 120 seconds, ensuring faster and more efficient oracle pricing.
-      </>
-    ),
-  },
+
   {
     title: 'Decentralization',
     Image: require('@site/static/img/dece.png').default,
     description: (
       <>
         Tic Ton oracle provides open, decentralized price setting and validation with no entry barriers, ensuring free and flexible participation.
+      </>
+    ),
+  },
+  {
+    title: 'High Transactions per second in TON',
+    Image: require('@site/static/img/htps.png').default,
+    description: (
+      <>
+        With TON's high TPS, 10-block verifications take just 10 seconds, far quicker than Ethereum's 120 seconds, ensuring faster and more efficient oracle pricing.
       </>
     ),
   },

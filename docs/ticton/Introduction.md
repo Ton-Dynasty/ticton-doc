@@ -15,5 +15,5 @@ However, a primary challenge faced by Uniswap Oracles is the **latency in their 
 To address this issue, we have redesigned a new oracle model. Our oracle aims to **instantly mirror market prices**, reducing latency while maintaining the characteristics of decentralization and resistance to manipulation.
 
 # Core Concepts
-![Alt text](../../image/core.jpg)
+![Alt text](../../image/core.png)
 **After a quote has remained un-arbitraged for a certain period, it will then be incorporated into the TicTon Oracle for price calculation.**

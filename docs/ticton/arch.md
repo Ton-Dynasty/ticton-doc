@@ -5,8 +5,7 @@ sidebar_position: 3
 Welcome to the insightful exploration of the Tic Ton Oracle's operation. This section provides a comprehensive understanding of its innovative decentralized mechanism. We delve into the architecture and the step-by-step process that underlines the Oracle's functionality, offering a detailed view of its unique approach to maintaining accuracy and integrity in decentralized data verification. Let's embark on this journey to understand how the Tic Ton Oracle revolutionizes data validation and security.
 
 ## Architecture
-![Alt text](../../image/architecture.jpg)
-
+![Alt text](../../image/architecture.png)
 ## In-Depth Architecture Breakdown
 **You can envision the Tic Ton Oracle  as the story below:**
 
@@ -30,5 +29,4 @@ Protocols can retrieve prices from Tic Ton Oracle while paying some basic fees.
 
 ## Summary
 
-![Alt text](../../image/summary.jpg)
-
+![Alt text](../../image/summary.png)

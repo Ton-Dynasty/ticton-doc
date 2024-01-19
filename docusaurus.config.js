@@ -8,7 +8,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Tic Ton',
+  title: 'Tic Ton Oracle',
   tagline: 'Tick Tock! Tic Ton! Innovative price oracle for TON',
   favicon: 'img/TICTON-LAST.png',
 

@@ -105,8 +105,8 @@ const config = {
                 href: 'https://t.me/+-1yFsBhsmegwNmM1',
               },
               {
-                label: 'Youtube',
-                href: 'https://www.youtube.com/@dynastyton',
+                label: 'X',
+                href: 'https://twitter.com/TicTonOracle',
               },
             ],
           },

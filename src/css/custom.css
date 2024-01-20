@@ -29,4 +29,37 @@
   /* 其他 CSS 變數... */
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500&display=swap');
+
+.hero__title, .hero__subtitle {
+    font-family: 'Roboto Mono', monospace;
+}
+.hero__subtitle {
+  font-weight: bold; /* 或者使用数值，如 600、700 等 */
+}
+
+/* 亮金色 */
+.hero__title {
+  color: #ffd700; /* 亮金色 */
+}
+
+/* 浅灰色 */
+.hero__title {
+  color: #dcdcdc; /* 浅灰色 */
+}
+
+/* 白色 */
+.hero__title {
+  color: #ffffff; /* 白色 */
+}
+
+/* 柔和的粉色 */
+.hero__title {
+  color: #ff99cc; /* 柔和的粉色 */
+}
+
+/* 浅紫色 */
+.hero__title {
+  color: #e6e6fa; /* 浅紫色 */
+}
 

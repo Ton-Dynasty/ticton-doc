@@ -18,6 +18,9 @@ The funds for these rewards come from customers who pay to check the current tim
 
 ## Step1: Provide price by Watchmaker
 ![Alt text](../../image/step1.png)
+Watchmakers can provide accurate quotes to Tic Ton Oracle; for instance, if the quoted price is 1 TON / 2 USDT, the watchmaker must transfer 1 TON and 2 USDT to 
+the Oracle as a commitment. The Oracle then creates an Alarm for this quote. Multiple watchmakers may quote simultaneously, resulting in several Alarms, each representing 
+different quotes. If a quote remains unarbitrated by the Timekeeper after 20 blocks (refer to step two for the process), the watchmaker can claim rewards for that quote.
 
 ## Step2: Verify price by Timekeeper
 ![Alt text](../../image/step2.png)
